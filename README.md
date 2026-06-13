@@ -71,17 +71,20 @@ python visualize.py
 ### Scraper Output
 
 ![Scraper Output]
-c:\Users\hp\Pictures\Screenshots\scraper_output.png.png
+<img width="1918" height="1012" alt="scraper_output png" src="https://github.com/user-attachments/assets/8d7f27d8-5e11-42fb-82a5-2ce6f9fab53c" />
+
 
 ### Analysis Output
 
 ![Analysis Output]
-c:\Users\hp\Pictures\Screenshots\analysis_output.png.png
+<img width="1918" height="1021" alt="analysis_output png" src="https://github.com/user-attachments/assets/8c3a15bb-80b7-447e-9f8f-7be078305e20" />
+
 
 ### Visualization
 
 ![Visualization]
-c:\Users\hp\Pictures\Screenshots\visualization.png.png
+<img width="1918" height="1015" alt="visualization png" src="https://github.com/user-attachments/assets/fc3be0ae-61d3-4d1f-a361-baa1958810c1" />
+
 
 ## Author
 
